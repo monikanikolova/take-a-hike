@@ -1,6 +1,6 @@
 # Take-a-hike
 This application is a project assignment for UNCC Bootcamp. 
-Eat-Da-Burger is a fun app that lets users keep track of trails.
+Take-a-Hike is a fun app that lets users keep track of trails.
 After logging in user can see all trails or see own trails. Also user can change trails from saved to completed
 
 
